@@ -37,3 +37,9 @@ python main.py
 ✅ Improved recycling efficiency.
 ✅ Reduced manual labor and exposure to harmful waste.
 ✅ Demonstrated AI’s role in solving environmental challenges.
+
+Vaishnavi Prashant Patil – LinkedIn – vaishnavipatil093@gmail.com
+
+Aditya Sagar Mohite
+
+Pratik Prakash Pawar
