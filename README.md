@@ -38,6 +38,8 @@ python main.py
 ✅ Reduced manual labor and exposure to harmful waste.
 ✅ Demonstrated AI’s role in solving environmental challenges.
 
+📩 For any further information or queries about this project, feel free to contact me at vaishnavipatil093@gmail.com.
+
 Vaishnavi Prashant Patil – LinkedIn – vaishnavipatil093@gmail.com
 
 Aditya Sagar Mohite
